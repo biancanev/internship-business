@@ -15,7 +15,7 @@ body, html {
 
 body {
     /* The image used */
-    background-image: url("http://cmusic.ml/scenery_for_song2.jpg");
+    background-image: url("https://github.com/biancanev/Cmusic/blob/master/scenery_for_song2.jpg");
 
     min-height: 100%;
 
